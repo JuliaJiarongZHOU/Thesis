@@ -1,0 +1,499 @@
+,Comment,topics,c1,d1,c2,d2,c3,d3,c4,d4,missing,c5,Categories,Descriptions,Category Accuracy (%),Description Accuracy (%),Final Score (%),Data Issue Flag
+0,"I LOVE Red Hook Lobster (RHL). I live in the DC area and first tried it here, but unfortunately the pandemic hit them hard and resulted in a closure. So, imagine my excitement when the hubby and I visited NY and saw RHL on the list for Smorgasburg. 
+We visited RHL's food stall at Smorgasburg on 5/26/2024. I was laser focused on what I wanted upon arrival, yes, I saw there were other restaurants there, but did I care? No. I wanted RHL and basically nothing else!
+I ordered the Connecticut roll - it was warm, buttery, with toasty bread and I almost fell down because my knees were weak. I freaking love this roll. After consuming it, I said, hmm, I want more and went back and got the Maine style lobster roll, which is the cold style. Both of these rolls were perfect, but my preference is certainly the Connecticut roll. 
+My complaints, well the normal ones, I wish the rolls were double the size and half the price, but 2024 has lobster costing a million dollars a pound, so I get it.","- Category: Food Quality
+  - Description: The reviewer loves the Connecticut roll and the Maine style lobster roll from Red Hook Lobster. They describe the Connecticut roll as warm, buttery, with toasty bread and absolutely delicious. 
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: The reviewer mentions that they wish the rolls were larger and more affordable, but understand that lobster prices are high in 2024.
+  - Attitude: Not fully satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Value for Money']","['The reviewer loves the Connecticut roll and the Maine style lobster roll from Red Hook Lobster. They describe the Connecticut roll as warm, buttery, with toasty bread and absolutely delicious.', 'The reviewer mentions that they wish the rolls were larger and more affordable, but understand that lobster prices are high in 2024.']",100.0,100.0,100.0,False
+1,"Came here for a quick dinner because it's the start of lobster roll season!! The lobster didn't disappoint. They have a good deal for 2 lobster rolls, appetizer of your choosing and a dessert. I did this with my partner and it was so much food. We also got an order of 2 dozen oysters and let me tell you, those east coast oysters were the best I've ever tasted thus far. We sat outside so the ambiance was NYC street vibes, but it was a cute seafood shack vibe inside. One thing I would say is that they need to get more than 2 unisex bathrooms because that line was longer than life.","- Category: Food Quality
+  - Description: Lobster rolls, oysters, and appetizers were delicious.
+  - Attitude: Satisfied
+  
+- Category: Ambiance
+  - Description: NYC street vibes and seafood shack vibe inside.
+  - Attitude: Satisfied
+  
+- Category: Cleanliness
+  - Description: Long line for only 2 unisex bathrooms.
+  - Attitude: Dissatisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Ambiance', 'Cleanliness']","['Lobster rolls, oysters, and appetizers were delicious.', 'NYC street vibes and seafood shack vibe inside.', 'Long line for only 2 unisex bathrooms.']",100.0,100.0,100.0,False
+2,I was feeling seafood and was super satiated by this meal. It's not the best I've ever had but it was still enjoyable enough to clear everything. Get the biscuits!,"- Category: Food Quality
+  - Description: The seafood meal was satisfying but not the best ever.
+  - Attitude: Enjoyable
+
+- Category: Menu Choice
+  - Description: Recommendation to get the biscuits.
+  - Attitude: Positive",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Menu Choice']","['The seafood meal was satisfying but not the best ever.', 'Recommendation to get the biscuits.']",100.0,100.0,100.0,False
+3,"Delicious! So, if you know me, I'm not a huge lobster roll kind of guy. However, my friends are. So we ended up checking this spot out and golly, it was amazing! My friends thoroughly enjoyed the lobster roll! They have an option call ""main event"" which we highly recommend. Best bang for your buck. The staff was very attentive and receptive to our need and the ambience gave you inside a boat vibe!","- Category: Food Quality
+  - Description: Lobster roll, particularly the ""main event"" option, was amazing and highly recommended.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Staff was very attentive and receptive to the customers' needs.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: The ambience gave an inside-a-boat vibe.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Customer Service', 'Ambiance']","['Lobster roll, particularly the ""main event"" option, was amazing and highly recommended.', ""Staff was very attentive and receptive to the customers' needs."", 'The ambience gave an inside-a-boat vibe.']",100.0,100.0,100.0,False
+4,"Outstanding lobster rolls. Although it's pricey, you do get your money's worth, both in quantity and quality. They have a good drink selection. The service is excellent, the place has a fun atmosphere and good amount of outside seating.","- Category: Food Quality
+  - Description: Outstanding lobster rolls, good drink selection
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: Although it's pricey, you do get your money's worth, both in quantity and quality
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: The service is excellent
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: The place has a fun atmosphere and good amount of outside seating
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Value for Money', 'Customer Service', 'Ambiance']","['Outstanding lobster rolls, good drink selection', ""Although it's pricey, you do get your money's worth, both in quantity and quality"", 'The service is excellent', 'The place has a fun atmosphere and good amount of outside seating']",100.0,100.0,100.0,False
+5,"Been here a handful of times and each time I left just awaiting my next visit. That's how good this spot is. IKEA is in the nabe, so if you're looking for some great grub be on the lookout for this spot. They got a cool setup here a pretty efficient one I might add. Great for groups too with their picnic style seats. Onto the food...this is as close you will get to goin to Maine, so go now. Still thinking about this warm buttery rolls topped with chunks of lobster. Obviously it is expensive and may be a stretch for some, but if you do have the chance...GO!!","- Category: Food Quality
+  - Description: Closest you will get to going to Maine with warm buttery rolls topped with chunks of lobster.
+  - Attitude: Satisfied
+  
+- Category: Value for Money
+  - Description: Food is expensive and may be a stretch for some.
+  - Attitude: Mixed
+  
+- Category: Ambiance
+  - Description: They have a cool setup with picnic style seats, great for groups.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Value for Money', 'Ambiance']","['Closest you will get to going to Maine with warm buttery rolls topped with chunks of lobster.', 'Food is expensive and may be a stretch for some.', 'They have a cool setup with picnic style seats, great for groups.']",100.0,100.0,100.0,False
+6,Omg one of the best lobster spots in nyc! Took the ferry from the lower east side just to try this place :D staff is so friendly and amazing environment,"- Category: Food Quality
+  - Description: The lobster dishes at this restaurant are top-notch.
+  - Attitude: Satisfactory
+
+- Category: Customer Service
+  - Description: The staff is extremely friendly.
+  - Attitude: Satisfactory
+
+- Category: Ambiance
+  - Description: The environment of the restaurant is amazing.
+  - Attitude: Satisfactory",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Customer Service', 'Ambiance']","['The lobster dishes at this restaurant are top-notch.', 'The staff is extremely friendly.', 'The environment of the restaurant is amazing.']",100.0,100.0,100.0,False
+7,"Wow! The quality of lobster is fantastic, probably the best in NYC! They pick up fresh lobster at least once a week from Maine and it shows. Why should you come here? First, their lobster rolls are fresh and delicious, and not too salty or creamy. The chowder and other dishes are also delicious and well balanced. Second, the wait staff is very friendly and attentive, we felt like friends coming over to a neighbor's house to eat. Third, the place is clean and doesn't smell fishy, which is hard to do for a lobster shack! And lastly, the price is a steal for fresh lobster! You can also add lobster meat to each dish, which is a great option. Definitely eat here again!","- Category: Food Quality
+  - Description: Fresh lobster, well-balanced and delicious dishes.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Very friendly and attentive wait staff, welcoming atmosphere.
+  - Attitude: Satisfied
+
+- Category: Cleanliness
+  - Description: Clean establishment with no fishy smell.
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: Good price for fresh lobster, option to add lobster meat to dishes.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Customer Service', 'Cleanliness', 'Value for Money']","['Fresh lobster, well-balanced and delicious dishes.', 'Very friendly and attentive wait staff, welcoming atmosphere.', 'Clean establishment with no fishy smell.', 'Good price for fresh lobster, option to add lobster meat to dishes.']",100.0,100.0,100.0,False
+8,Attentive service good value ordered 100 for my office the lobster was fresh and delicious,"- Category: Customer Service
+  - Description: Attentive service good value
+  - Attitude: Positive
+
+- Category: Food Quality
+  - Description: The lobster was fresh and delicious
+  - Attitude: Positive
+
+- Category: Value for Money
+  - Description: Ordered 100 for my office
+  - Attitude: Positive",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Customer Service', 'Food Quality', 'Value for Money']","['Attentive service good value', 'The lobster was fresh and delicious', 'Ordered 100 for my office']",100.0,100.0,100.0,False
+9,"We've gone to RHLP for years and remain fond of the food, the staff and the charming space.  We appreciate their fine product, with almost whatever they must charge to produce it !","- Category: Food Quality
+  - Description: The reviewer mentions being fond of the food at RHLP.
+  - Attitude: Positive
+
+- Category: Customer Service
+  - Description: The reviewer appreciates the staff at RHLP.
+  - Attitude: Positive
+
+- Category: Ambiance
+  - Description: The reviewer mentions the charming space at RHLP.
+  - Attitude: Positive
+
+- Category: Value for Money
+  - Description: The reviewer mentions being willing to pay whatever is charged for the fine product.
+  - Attitude: Positive",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Customer Service', 'Ambiance', 'Value for Money']","['The reviewer mentions being fond of the food at RHLP.', 'The reviewer appreciates the staff at RHLP.', 'The reviewer mentions the charming space at RHLP.', 'The reviewer mentions being willing to pay whatever is charged for the fine product.']",100.0,100.0,100.0,False
+10,"Large portions and family friendly.
+I've had a lot of lobster and I felt this lobster wasn't sweet but they do give you big portions. The servers are very nice but the service was slow. We had to ask for napkins, utensils and plates. Overall it's a great place to bring your family or for a low key date. We got the lobster rolls.","- Category: Food Quality
+  - Description: Lobster wasn't sweet but large portions.
+  - Attitude: Mixed
+
+- Category: Customer Service
+  - Description: Servers are very nice but service was slow, had to ask for napkins, utensils, and plates.
+  - Attitude: Mixed
+
+- Category: Ambiance
+  - Description: Great place for families or low-key dates.
+  - Attitude: Positive",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Customer Service', 'Ambiance']","[""Lobster wasn't sweet but large portions."", 'Servers are very nice but service was slow, had to ask for napkins, utensils, and plates.', 'Great place for families or low-key dates.']",100.0,100.0,100.0,False
+11,"Just digested wonderful NYT article:
+https://www.nytimes.com/2023/11/14/nyregion/nyc-costs-lobster-roll-fries.html
+Lord willing. I'll relish this delish dish. So, from this southern boy's view, quit yer belly achin' & try to offer a bit o' sympathy if not empathy.
+Can't beat this jewel: ""Still, Ms. Povich said, 'I'd rather people complain about my prices than complain about my food.'""","- Category: Food Quality
+  - Description: The review references a delish dish, suggesting a positive view on the food quality.
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: The reviewer mentions a quote about being willing to receive complaints about prices rather than food quality.
+  - Attitude: Neutral",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Value for Money']","['The review references a delish dish, suggesting a positive view on the food quality.', 'The reviewer mentions a quote about being willing to receive complaints about prices rather than food quality.']",100.0,100.0,100.0,False
+12,"I recently went to Red Hook for dinner.  This is still the best lobster roll I've had in the city, really reminds me of the great waterfront lobster shacks in Maine, even though the Lobster Pound is an actual indoor restaurant now.  Lobster was perfectly prepared and you can choose between the traditional butter or mayonnaise versions. Great place for dinner!","- Category: Food Quality
+  - Description: The lobster roll was described as the best in the city and perfectly prepared with the option of traditional butter or mayonnaise versions.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: The reviewer mentions that the restaurant's ambiance reminded them of great waterfront lobster shacks in Maine.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Ambiance']","['The lobster roll was described as the best in the city and perfectly prepared with the option of traditional butter or mayonnaise versions.', ""The reviewer mentions that the restaurant's ambiance reminded them of great waterfront lobster shacks in Maine.""]",100.0,100.0,100.0,False
+13,It's always a pleasure getting a lobster roll! The outdoor seating here is nice and the service is good. We were seated right away and used our phones to generate a menu. We both had lobster roles - the 6oz classic and the 6oz Connecticut. We opted to get two different sides so we could share: Cole slaw and corn on the cob. The one role was made gluten free by substituting a lettuce wrap. The food is delicious and we'd happily order more - although the prices are truly crazy. 6oz of lobster on lettuce was $42 (classic was the same)! I get that lobster is a luxury item though this felt like a lot.,"- Category: Food Quality
+  - Description: Lobster rolls with sides such as cole slaw and corn on the cob were ordered.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: Mentioned that the outdoor seating was nice.
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: Mentioned that the prices for the lobster rolls were considered expensive.
+  - Attitude: Not satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Ambiance', 'Value for Money']","['Lobster rolls with sides such as cole slaw and corn on the cob were ordered.', 'Mentioned that the outdoor seating was nice.', 'Mentioned that the prices for the lobster rolls were considered expensive.']",100.0,100.0,100.0,False
+14,If you are coming here for a good lobster roll... Skip this place and go to Littleneck on 3rd Avenue Gowanus for a super delicious lobster roll.,"- Category: Food Quality
+   - Description: Subpar lobster roll compared to the one at Littleneck on 3rd Avenue Gowanus.
+   - Attitude: Dissatisfied",1.0,1.0,,,,,,,,,['Food Quality'],['Subpar lobster roll compared to the one at Littleneck on 3rd Avenue Gowanus.'],100.0,100.0,100.0,False
+15,"I have been faithfully coming here since around 2011, when it was a more modest setup with picnic style tables and you ordered at the counter. I love lobster, and I love the lobster here, and it's always been delicious, sweet, and fresh. It has been a tradition for years for my mother and I to celebrate our birthdays (only four days apart!) here. 
+Then, they launched Lobster Week, and my trips out to Red Hook became even more frequent. 
+The current layout of the restaurant is nice; nautical themed enough but not over the top. There's plenty of seating, but there are nights where it will be packed and you and your neighbors are at risk of flying lobster particles hitting one another. But the atmosphere is always lovely and lively. They have a great selection at the bar, and even though I usually default to a lobster dinner (how can you pass that up??), I will make it my mission to try everything on their menu. 
+I definitely recommend the hot crab dip, their fries are awesome, the lobster bisque is divine, and of course, please be sure to get the lobster dinner and maybe add on a seafood boil while you're at it! 
+Generally, pricing is as you'd expect for lobster in the city, but you really cannot beat their Lobster Week deals. I usually come several days (often consecutively) for Lobster Week, and this year, I managed seven visits in the month of September. 
+The staff is so friendly and cool, and they are attentive and kind. I really love going here, and I'm always raving about the place to anyone who doesn't suffer a shellfish allergy (my condolences). I take al my friends, I've dined alone here on several occasions--no matter what, it is truly always a great time. 
+Lobster is my favorite food and this is my favorite place to eat lobster, so it's basically my personal heaven. 
+I wish these folks every success, and no complaints, and I hope they stay in operation forevermore.","- Category: Food Quality
+  - Description: The lobster, hot crab dip, fries, lobster bisque, and seafood boil are recommended for their taste.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: The restaurant has a nice, nautical-themed layout with plenty of seating. On busy nights, it can get packed but the atmosphere remains lovely and lively.
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: Pricing is reasonable for lobster in the city, especially during Lobster Week with great deals.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: The staff is friendly, cool, attentive, and kind, making each",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Ambiance', 'Value for Money', 'Customer Service']","['The lobster, hot crab dip, fries, lobster bisque, and seafood boil are recommended for their taste.', 'The restaurant has a nice, nautical-themed layout with plenty of seating. On busy nights, it can get packed but the atmosphere remains lovely and lively.', 'Pricing is reasonable for lobster in the city, especially during Lobster Week with great deals.', 'The staff is friendly, cool, attentive, and kind, making each']",100.0,100.0,100.0,False
+16,"Aissa was amazing. Loved her. 
+Friendly, kind and very attentive! Would definitely come back and ask for her again!","- Category: Customer Service
+  - Description: Aissa provided excellent customer service by being friendly, kind, and very attentive.
+  - Attitude: Satisfied",1.0,1.0,,,,,,,,,['Customer Service'],"['Aissa provided excellent customer service by being friendly, kind, and very attentive.']",100.0,100.0,100.0,False
+17,Very good food at this establishment. BTW - The Bloody Mary was great! Service was a little slow but that's just me v,"- Category: Food Quality
+  - Description: Very good food at this establishment. BTW - The Bloody Mary was great!
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Service was a little slow but that's just me.
+  - Attitude: Neutral",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['Very good food at this establishment. BTW - The Bloody Mary was great!', ""Service was a little slow but that's just me.""]",100.0,100.0,100.0,False
+18,I love the lobster roll. It was fresh and delicious. The roll was packed with lobster. The customer service was amazing and they answered all the questions I had.,"- Category: Food Quality
+  - Description: The lobster roll was fresh, delicious, and packed with lobster.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: The customer service was amazing, and all questions were answered.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['The lobster roll was fresh, delicious, and packed with lobster.', 'The customer service was amazing, and all questions were answered.']",100.0,100.0,100.0,False
+19,Great fun atmosphere!  We're from New England so we're picky and the lobster was amazing!   Service is excellent as well.  We'll be back!,"- Category: Food Quality
+  - Description: Lobster was amazing, catering to picky New Englanders.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Service is excellent.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: Great fun atmosphere.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Customer Service', 'Ambiance']","['Lobster was amazing, catering to picky New Englanders.', 'Service is excellent.', 'Great fun atmosphere.']",100.0,100.0,100.0,False
+20,"This was not technically their restaurant but rather at Bryant park but it was still fantastic! Delicious lobster meat lightly tossed in lemon mayo on a beautifully toasted split bun, a must try!","- Category: Food Quality
+  - Description: Delicious lobster meat lightly tossed in lemon mayo on a beautifully toasted split bun.
+  - Attitude: Fantastic",1.0,1.0,,,,,,,,,['Food Quality'],['Delicious lobster meat lightly tossed in lemon mayo on a beautifully toasted split bun.'],100.0,100.0,100.0,False
+21,Lobster Rolls Baby!!!! I love this place. Such a pleasant experience every time we go. The entire menu is to die for.  But you have to get the LOBSTER ROLLS!!!!,"- Category: Food Quality
+  - Description: Lobster Rolls are the standout item on the menu.
+  - Attitude: Satisfied
+
+- Category: Menu Choice
+  - Description: The entire menu is praised and described as ""to die for.""
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Menu Choice']","['Lobster Rolls are the standout item on the menu.', 'The entire menu is praised and described as ""to die for.""']",100.0,100.0,100.0,False
+22,"i recommend the red hook lobster pound for their lobster rolls and fish & chips and festive atmosphere. i haven't had their raw bar items but i bet i'd like them. their drink selection works for me too but the frozen drinks run a bit sweet.
+unfortunately, i was totally ripped off by the citrus salad with lobster today. there was barely any lobster and what was included had an odd deflated and rubbery quality. when i told the waiter how disappointed i was for the price ($34!!) he admitted that this salad only has 2oz of lobster but the lobster roll has 4oz. the salad costs $2 more than the roll !? make it make sense.
+my husband added from past experience that the lobster mac & cheese kinda skimps on lobster too. 
+i will be back and stick to what i know they do well.","- Category: Food Quality
+  - Description: Issues with the amount and quality of lobster in the citrus salad and lobster mac & cheese.
+  - Attitude: Unsatisfied
+
+- Category: Ambiance
+  - Description: Positive mention of the festive atmosphere at the restaurant.
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: Customer feeling ripped off by the portion size and quality of lobster in the citrus salad.
+  - Attitude: Unsatisfied
+
+- Category: Menu Choice
+  - Description: Customer feels confident in their choice of lobster rolls, fish & chips, and drinks.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Ambiance', 'Value for Money', 'Menu Choice']","['Issues with the amount and quality of lobster in the citrus salad and lobster mac & cheese.', 'Positive mention of the festive atmosphere at the restaurant.', 'Customer feeling ripped off by the portion size and quality of lobster in the citrus salad.', 'Customer feels confident in their choice of lobster rolls, fish & chips, and drinks.']",100.0,100.0,100.0,False
+23,"AISSA ROCKED!!! Food was spectacular. Did I mention Aissa? AWESOME SERVICE.
+We had lobster rolls one traditional and CT style.
+100% !!!   That's from a seafood snob. Top notch. Cant be done better!","Based on the review provided, the main business process topics can be categorized as follows:
+
+- Category: Food Quality
+  - Description: The food, particularly the lobster rolls in traditional and CT style, was described as spectacular and top-notch.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: A specific mention to Aissa and the awesome service provided.
+  - Attitude: Satisfied
+
+Therefore, the key areas highlighted in the review are Food Quality and Customer Service, both of which were portrayed positively with high satisfaction levels.",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['The food, particularly the lobster rolls in traditional and CT style, was described as spectacular and top-notch.', 'A specific mention to Aissa and the awesome service provided.']",100.0,100.0,100.0,False
+24,"I love red hook lobster pound the lobster rolls the fries and the events 
+The service is really good they remember stuff they make the food right","- Category: Food Quality
+  - Description: Love the lobster rolls and fries.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Service is really good, staff remembers orders and prepares food correctly.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['Love the lobster rolls and fries.', 'Service is really good, staff remembers orders and prepares food correctly.']",100.0,100.0,100.0,False
+25,The lobster was fresh and delicious. They give you tons of lobster. The only downfall was that I wish it was bigger.,"- Category: Food Quality
+  - Description: Fresh and delicious lobster, but wished for a bigger portion.
+  - Attitude: Mixed",1.0,1.0,,,,,,,,,['Food Quality'],"['Fresh and delicious lobster, but wished for a bigger portion.']",100.0,100.0,100.0,False
+26,"We came here again this Memorial Day weekend and were so happy we did.  We made a reservation for the outdoor seating as we didn't want to take a chance.  It was a good thing too because it was busy!  Our server, Aissa, was just incredible.  We had a six year old with us with a few specific requests and Aissa was on top of all of it, even with how busy they were.  The food was great - per usual - between us all we had oysters, steamed clams, lobster rolls, soup, Brussels sprouts, and a hot dog.  Everything was on point.  We had a few cocktails as well and they all went down smoothly as well.  Absolutely no complaints.","- Category: Customer Service
+  - Description: Aissa, the server, provided exceptional service, even with specific requests for a six-year-old and during a busy time.
+  - Attitude: Satisfied
+
+- Category: Food Quality
+  - Description: The oysters, steamed clams, lobster rolls, soup, Brussels sprouts, and hot dog were all delicious and on point.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: The outdoor seating was reserved and enjoyable on Memorial Day weekend.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Customer Service', 'Food Quality', 'Ambiance']","['Aissa, the server, provided exceptional service, even with specific requests for a six-year-old and during a busy time.', 'The oysters, steamed clams, lobster rolls, soup, Brussels sprouts, and hot dog were all delicious and on point.', 'The outdoor seating was reserved and enjoyable on Memorial Day weekend.']",100.0,100.0,100.0,False
+27,"Food was great, ambiance was lovely, and service was wonderful. This place was definitely great and I will be back.","- Category: Food Quality
+  - Description: Food was great.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: Ambiance was lovely.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Service was wonderful.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Ambiance', 'Customer Service']","['Food was great.', 'Ambiance was lovely.', 'Service was wonderful.']",100.0,100.0,100.0,False
+28,"Unaware because we weren't told of the $3.00 charge to crack the lobster open, hubby ordered the 1.5lb (not cracked) lobster dinner.   He had such a struggle with the thing it slipped out his hand and landed under my seat.  We let one of the servers know what just happened and he offered to put it back in boiling water to clean it off.  Next time either tell us about the charge to crack the lobster open or don't tell us and just charge because no one should have to fight with food, that should be common sense and who wants to eat it after it's been on the floor.  For me there won't be a next time.","- Category: Food Quality
+  - Description: Lobster was not cracked open as requested, making it difficult to eat.
+  - Attitude: Dissatisfied
+
+- Category: Customer Service
+  - Description: Servers did not inform about the charge to crack the lobster open and offered to clean the dropped lobster by putting it back in boiling water.
+  - Attitude: Dissatisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['Lobster was not cracked open as requested, making it difficult to eat.', 'Servers did not inform about the charge to crack the lobster open and offered to clean the dropped lobster by putting it back in boiling water.']",100.0,100.0,100.0,False
+29,Excellent lobster roll! Keeping it real in red hook / I appreciate the attentive service and overall vibe.,"- Category: Food Quality
+  - Description: Excellent lobster roll!
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: I appreciate the attentive service and overall vibe.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['Excellent lobster roll!', 'I appreciate the attentive service and overall vibe.']",100.0,100.0,100.0,False
+30,"Do you like seafood? Me too. 
+And to be clear, I'm not talking about the food I see when my four year old chews things up and shows it to me (I'm a little annoyed that joke is still a thing). I'm talking about all the wonderful things that get pulled out of the ocean, that we get to eat if we're lucky. 
+And in Brooklyn, we are lucky, because Red Hook Lobster Pound has it all. Excellent lobster rolls, creamy clam chowder, perfectly fried shrimp and clam strips, fresh shrimp or lobster over a salad if that's your thing, and the beer to wash it all down. They also excel with their sides (brussels sprouts, fries, etc. are all delicious), and the takeout is lightning fast if you don't feel like hanging out there.
+Best of all, right now it's Crab Week, and you can go in and get a nice pound of crab legs with potatoes and corn (although the potatoes and corn desperately need seasoning). You just have to decide how fancy you are, king, snow, or dungeness. 
+Personally, I went with two friends and got one of each, because depending on the day, I can be fancy, kind of fancy, and a lowbrow piece of trash. 
+We also added crab dip, and drank too much, because that's how you should do Crab Week.","- Category: Food Quality
+  - Description: Excellent lobster rolls, creamy clam chowder, perfectly fried shrimp and clam strips, fresh shrimp or lobster over a salad, and delicious sides like brussels sprouts and fries.
+  - Attitude: Satisfied
+  
+- Category: Ambiance
+  - Description: Enjoyable atmosphere for hanging out and dining in.
+  - Attitude: Satisfied
+  
+- Category: Value for Money
+  - Description: Affordable options with a variety of dishes to choose from, including the Crab Week special.
+  - Attitude: Satisfied 
+
+- Category: Order Accuracy and Efficiency
+  - Description: Lightning-fast takeout service for those who prefer not to dine in.
+  - Attitude: S",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Ambiance', 'Value for Money', 'Order Accuracy and Efficiency']","['Excellent lobster rolls, creamy clam chowder, perfectly fried shrimp and clam strips, fresh shrimp or lobster over a salad, and delicious sides like brussels sprouts and fries.', 'Enjoyable atmosphere for hanging out and dining in.', 'Affordable options with a variety of dishes to choose from, including the Crab Week special.', 'Lightning-fast takeout service for those who prefer not to dine in.']",100.0,100.0,100.0,False
+31,"A super-laid-back tavern atmosphere, and reasonably-priced (comparatively) lobster, perfectly cooked, make this a very satisfying experience when you have that lobster Jones. Excellent 1.5 lb lobster boils, great lobster rolls, and terrific clam chowder. Outside of the summer, it's quite uncrowded as well. Service is friendly and fast.","- Category: Food Quality
+  - Description: Perfectly cooked lobsters, great lobster rolls, and terrific clam chowder.
+  - Attitude: Satisfying
+
+- Category: Ambiance
+  - Description: Super-laid-back tavern atmosphere.
+  - Attitude: Satisfying
+
+- Category: Value for Money
+  - Description: Reasonably-priced lobster compared to other places.
+  - Attitude: Satisfying
+
+- Category: Customer Service
+  - Description: Friendly and fast service.
+  - Attitude: Satisfying",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Ambiance', 'Value for Money', 'Customer Service']","['Perfectly cooked lobsters, great lobster rolls, and terrific clam chowder.', 'Super-laid-back tavern atmosphere.', 'Reasonably-priced lobster compared to other places.', 'Friendly and fast service.']",100.0,100.0,100.0,False
+32,aiesha is the best! we had a table of 16 people and she crushed it! best service I've ever had!,"- Category: Customer Service
+  - Description: Aiesha provided exceptional service to a large group of 16 people.
+  - Attitude: Satisfied",1.0,1.0,,,,,,,,,['Customer Service'],['Aiesha provided exceptional service to a large group of 16 people.'],100.0,100.0,100.0,False
+33,"Lobster roll was subpar, barely any sides with it. portions were small but i can understand with this economy. Ive had bigger, better lobster rolls in the area for the same price. Wouldnt come back because of location on how its so far out from the subway and too expensive.","- Category: Food Quality
+  - Description: Lobster roll was subpar with barely any sides.
+  - Attitude: Dissatisfied
+
+- Category: Value for Money
+  - Description: Portions were small but understandable in the current economy, felt that the price did not match the quality.
+  - Attitude: Dissatisfied
+
+- Category: Location
+  - Description: Location is far out from the subway.
+  - Attitude: Dissatisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Value for Money', 'Location']","['Lobster roll was subpar with barely any sides.', 'Portions were small but understandable in the current economy, felt that the price did not match the quality.', 'Location is far out from the subway.']",100.0,100.0,100.0,False
+34,Coming to the Red Hook Lobster Pound for my birthday dinner is my favorite tradition! Aissa and Cindy were so sweet and coordinated with my friends to make sure my lobster dinner came out with candles in it - they even gave me a card signed by all the staff! The lobster dinner always hits the spot and I tried the lobster claw Bloody Mary this time and loved it. It's always a great vibe and they are great with large groups (we came with 10 people). Already looking forward to next year!,"- Category: Customer Service
+   - Description: Aissa and Cindy provided excellent service by coordinating with friends, serving a lobster dinner with candles, and giving a birthday card signed by staff.
+   - Attitude: Satisfied
+
+- Category: Ambiance
+   - Description: The restaurant has a great vibe and is suitable for large groups.
+   - Attitude: Satisfied
+
+- Category: Food Quality
+   - Description: The lobster dinner always hits the spot, and the lobster claw Bloody Mary was delicious.
+   - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Customer Service', 'Ambiance', 'Food Quality']","['Aissa and Cindy provided excellent service by coordinating with friends, serving a lobster dinner with candles, and giving a birthday card signed by staff.', 'The restaurant has a great vibe and is suitable for large groups.', 'The lobster dinner always hits the spot, and the lobster claw Bloody Mary was delicious.']",100.0,100.0,100.0,False
+35,"Love this place!  The food is always great and the dinner specials are amazing. The best part is the phenomenal staff! Shout out to Aissa, Cindy and Kerry for making my friend's birthday so special!!!!!","- Category: Food Quality
+  - Description: The food is always great and the dinner specials are amazing.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: The best part is the phenomenal staff! Shout out to Aissa, Cindy and Kerry for making my friend's birthday so special!!!!!
+  - Attitude: Extremely satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['The food is always great and the dinner specials are amazing.', ""The best part is the phenomenal staff! Shout out to Aissa, Cindy and Kerry for making my friend's birthday so special!!!!!""]",100.0,100.0,100.0,False
+36,Enjoyed a great casual meal here. We started with the clam chowder - maybe the best we've had. Next was the mussels in garlic broth. AMAZING. Fresh. Perfectly prepared. Served with delicious ciabatta bread to enjoy the garlic broth. All employees were very friendly and welcoming. WELL worth a try.,"- Category: Food Quality
+  - Description: The clam chowder and mussels in garlic broth were described as amazing, fresh, and perfectly prepared.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: All employees were described as very friendly and welcoming.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Customer Service']","['The clam chowder and mussels in garlic broth were described as amazing, fresh, and perfectly prepared.', 'All employees were described as very friendly and welcoming.']",100.0,100.0,100.0,False
+37,"Connecticut Roll, Fresh Maine Lobsters both very good and tasted great. We also had the East and west coast oysters. So good. Loved the place would def come back again.","- Category: Food Quality
+  - Description: Connecticut Roll, Fresh Maine Lobsters, East and west coast oysters are very good and tasted great.
+  - Attitude: Satisfied
+
+Overall, the review highlights the positive experience with the food quality at the restaurant. The Connecticut Roll, Fresh Maine Lobsters, and East and west coast oysters are all described as very good and tasting great, indicating a high level of satisfaction with the food quality.",1.0,1.0,,,,,,,,,['Food Quality'],"['Connecticut Roll, Fresh Maine Lobsters, East and west coast oysters are very good and tasted great.']",100.0,100.0,100.0,False
+38,Usually like this place and their lobster rolls but think today may have been a off day potentially. To start theie was a guy that worked their that was very rude and dismissve. Upon entry we had to greet him and say we want a table for two. Then he just pointed to our table and said menu is on the barcode and walked away that's literally the only words we got from him. Then when our food came out (1 Connecticut style lobster rolls w/ fries & 1 fried lobsterroll w/potato salad) I don't think they timed it correctly maybe they made the Connecticut Then waited for the fried one to be made as the French fries were cold and the lobster roll was cold. It was so bad we had to ask for the fries to be heated the lobster roll we just sucked up and ate cold it also looks likenthey are cutting back as ive never seen a roll from them look that skimpy. The fried lobster was good though.,"- Category: Customer Service
+- Description: Rude and dismissive behavior from a staff member when greeted and seated.
+- Attitude: Unsatisfied
+
+- Category: Food Quality
+- Description: Inconsistent timing of food orders, resulting in cold fries and lobster roll.
+- Attitude: Unsatisfied
+
+- Category: Portion Size
+- Description: Lobster roll appeared skimpy compared to previous visits.
+- Attitude: Unsatisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Customer Service', 'Food Quality', 'Portion Size']","['Rude and dismissive behavior from a staff member when greeted and seated.', 'Inconsistent timing of food orders, resulting in cold fries and lobster roll.', 'Lobster roll appeared skimpy compared to previous visits.']",100.0,100.0,100.0,False
+39,"5 Stars to the kitchen workers who read my seamless message, ""Please write the names listed on each item so my boss doesn't fire me for messing up the order again"" and pulled thru. Kitchen workers are my favorite kind of people! Thanks so much for making my very stressful day go a bit easier!","- Category: Order Accuracy and Efficiency
+    - Description: Kitchen workers correctly followed the request to write names on each item to prevent order mistakes.
+    - Attitude: Satisfied",1.0,1.0,,,,,,,,,['Order Accuracy and Efficiency'],['Kitchen workers correctly followed the request to write names on each item to prevent order mistakes.'],100.0,100.0,100.0,False
+40,"Came in from Bridgeport Ct on Saturday for an early lunch.I ordered the classic Lobster roll with a side of sweet potato fries.WE have good lobster rolls in Ct,but the Lobster Pound roll is probably the best I have eaten.They have vats of fresh Lobsters in the restaurant.Finished off great lunch with a glass of red wine.Girls were all sweethearts.","- Category: Food Quality
+  - Description: The Lobster Pound roll was described as probably the best the reviewer has eaten.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: The reviewer mentioned that there were vats of fresh lobsters in the restaurant.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: The reviewer referred to the girls serving as sweethearts.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Ambiance', 'Customer Service']","['The Lobster Pound roll was described as probably the best the reviewer has eaten.', 'The reviewer mentioned that there were vats of fresh lobsters in the restaurant.', 'The reviewer referred to the girls serving as sweethearts.']",100.0,100.0,100.0,False
+41,"Gave this place a try, wouldn't say it's anything to recommend except if you happen to be passing and want seafood. 
+Clam chowder was good 
+Would have expected more lobster and crab meat for the prices we paid for the entrees.","- Category: Food Quality
+  - Description: Clam chowder was good, but expected more lobster and crab meat in the entrees.
+  - Attitude: Neutral",1.0,1.0,,,,,,,,,['Food Quality'],"['Clam chowder was good, but expected more lobster and crab meat in the entrees.']",100.0,100.0,100.0,False
+42,Red Hook Lobster does a really fun Wednesday lobster dinner special where it's $25 for a 1.5 lb lobster served with a side of corn and potatoes. I also highly recommend the lobster cheese fries!,"- Category: Food Quality
+  - Description: Lobster dinner special and lobster cheese fries are recommended.
+  - Attitude: Positive
+
+- Category: Value for Money
+  - Description: $25 for a 1.5 lb lobster dinner special.
+  - Attitude: Positive",1.0,1.0,1.0,1.0,,,,,,,"['Food Quality', 'Value for Money']","['Lobster dinner special and lobster cheese fries are recommended.', '$25 for a 1.5 lb lobster dinner special.']",100.0,100.0,100.0,False
+43,My family went today and brought me home the banana pudding. It literally tasted like Clorox was put in it. I guess rotten pudding ? Scared I'll be sick tonight. Very disappointed,"- Category: Food Quality
+- Description: Banana pudding tasted like Clorox, possibly rotten.
+- Attitude: Disappointed",1.0,1.0,,,,,,,,,['Food Quality'],"['Banana pudding tasted like Clorox, possibly rotten.']",100.0,100.0,100.0,False
+44,"We visited the lobster pound today to enjoy the  one dollar oyster happy hour
+What a treat our meal was today. Oysters were delicious and we had the down east fish chowder and an order of garlic biscuits and washed it down with our refreshing 5 dollar happy hour beer
+This place is a great stop and we highly encourage you take advantage of the happy hour specials - the chowder was incredibly fresh, hearty and delicious! The garlic biscuits were decadently delicious!!! Service is excellent and atmosphere is great!  We were thrilled with everything today!","- Category: Food Quality
+  - Description: Oysters, down east fish chowder, and garlic biscuits were delicious.
+  - Attitude: Satisfied
+
+- Category: Value for Money
+  - Description: Happy hour specials, $1 oysters, $5 happy hour beer.
+  - Attitude: Satisfied
+
+- Category: Customer Service
+  - Description: Service is excellent.
+  - Attitude: Satisfied
+
+- Category: Ambiance
+  - Description: Atmosphere is great.
+  - Attitude: Satisfied",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Value for Money', 'Customer Service', 'Ambiance']","['Oysters, down east fish chowder, and garlic biscuits were delicious.', 'Happy hour specials, $1 oysters, $5 happy hour beer.', 'Service is excellent.', 'Atmosphere is great.']",100.0,100.0,100.0,False
+45,"The Red Hook Lobster Pound, kinda left me with mixed emotions. Service was on point everyone hustling attending to tables. Hostess was super nice and upbeat and even though we had reservations for 45 minutes later than when we arrived they were able to seat us at a booth located on the street. Like most places you scan the menu and it pops up on your phone and you're able to sort through several categories of items including soups, salads, shareable starters, lobster rolls and complete dinners. Being your known for lobster rolls that's what we opted for. We ordered one classic and one Connecticut. Both came with at least one full claw and nice chunks of lobster. Yes most people would agree the portion size could be bigger for the price that you're paying which was $32 for a lobster roll and a side of fries or coleslaw or potato salad. Now I know that transportation and cost a rising all across the board but when two people share one appetizer, have three lobster rolls(one to go) and two drinks the total was like $120. Think it's a bit steep. But it was a nice night, servers were friendly and we came, we ate and we can say , hey I was at Red Hook Lobster Pound.","- Category: Food Quality
+- Description: Lobster rolls ordered were well-prepared with nice chunks of lobster, but portion size felt small for the price paid.
+- Attitude: Mixed
+
+- Category: Value for Money
+- Description: Reviewer found the total bill for two people sharing an appetizer, having three lobster rolls, two drinks to be a bit steep at $120.
+- Attitude: Unsatisfied
+
+- Category: Customer Service
+- Description: Positive feedback for the attentive and hustling service, with the hostess being super nice and upbeat.
+- Attitude: Satisfied
+
+- Category: Menu Choice
+- Description: Menu featured a variety of categories including soups, salads, shareable starters, lobster rolls,",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Food Quality', 'Value for Money', 'Customer Service', 'Menu Choice']","['Lobster rolls ordered were well-prepared with nice chunks of lobster, but portion size felt small for the price paid.', 'Reviewer found the total bill for two people sharing an appetizer, having three lobster rolls, two drinks to be a bit steep at $120.', 'Positive feedback for the attentive and hustling service, with the hostess being super nice and upbeat.', 'Menu featured a variety of categories including soups, salads, shareable starters, lobster rolls,']",100.0,100.0,100.0,False
+46,"Ok, BEST KING CRAB LEGS EVER!!! Such a chill atmosphere. The potatoes and corn were spot on perfect! Our server Jesse was so much fun and very sweet! Coming back for sure!","- Category: Food Quality
+  - Description: Best king crab legs ever, perfectly cooked potatoes and corn.
+  - Attitude: Positive
+
+- Category: Ambiance
+  - Description: Chill atmosphere.
+  - Attitude: Positive
+
+- Category: Customer Service
+  - Description: Server Jesse was fun and very sweet.
+  - Attitude: Positive",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Ambiance', 'Customer Service']","['Best king crab legs ever, perfectly cooked potatoes and corn.', 'Chill atmosphere.', 'Server Jesse was fun and very sweet.']",100.0,100.0,100.0,False
+47,"Wonderful lobster rolls & fries! You can't go wrong with the Maine or Connecticut - both give you hefty portions of lobster, on a buttery roll. It is slightly overpriced, but they make up for it with a killer drink menu.","- Category: Food Quality
+  - Description: Lobster rolls and fries with hefty portions of lobster on a buttery roll.
+  - Attitude: Positive
+
+- Category: Value for Money
+  - Description: Slightly overpriced.
+  - Attitude: Neutral
+
+- Category: Menu Choice
+  - Description: Killer drink menu.
+  - Attitude: Positive",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Value for Money', 'Menu Choice']","['Lobster rolls and fries with hefty portions of lobster on a buttery roll.', 'Slightly overpriced.', 'Killer drink menu.']",100.0,100.0,100.0,False
+48,"Beautiful warehouse with a fishery feeling. This is a well managed place that feels connected to New England's tradition of lobster shacks. The food is good, well installed in the mainstream. Service is professional. 
+A bit pricy, I would say. 
+Overall, this is a great place.","- Category: Ambiance
+- Description: Beautiful warehouse with a fishery feeling, connected to New England's tradition of lobster shacks.
+- Attitude: Positive
+
+- Category: Food Quality
+- Description: The food is good, well installed in the mainstream.
+- Attitude: Positive
+
+- Category: Value for Money
+- Description: A bit pricy.
+- Attitude: Neutral
+
+- Category: Customer Service
+- Description: Service is professional.
+- Attitude: Positive",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,"['Ambiance', 'Food Quality', 'Value for Money', 'Customer Service']","[""Beautiful warehouse with a fishery feeling, connected to New England's tradition of lobster shacks."", 'The food is good, well installed in the mainstream.', 'A bit pricy.', 'Service is professional.']",100.0,100.0,100.0,False
+49,"Oh my God I just paid $40 for maybe a quarter lb of lobster. I feel sick to my stomach. I have never seen such a tiny lobster roll!! Very frustrating how stingy they were with the lobster. Even the fries...can you afford to give us more fries when we just paid $40? $32 cost of the connecticutt roll. It was good. Add tip, tax= $39. Wow. And it was packed. Our specific waiter was not friendly. Mumbled, couldn't hear him. Didn't explain the menu. Meh.","- Category: Food Quality
+  - Description: Small portion size and lack of quantity of lobster in lobster roll.
+  - Attitude: Dissatisfied
+
+- Category: Value for Money
+  - Description: Feeling of overpaying for the lobster roll and small portion of fries.
+  - Attitude: Dissatisfied
+
+- Category: Customer Service
+  - Description: Unfriendly and unhelpful waiter who mumbled and didn't explain the menu.
+  - Attitude: Dissatisfied",1.0,1.0,1.0,1.0,1.0,1.0,,,,,"['Food Quality', 'Value for Money', 'Customer Service']","['Small portion size and lack of quantity of lobster in lobster roll.', 'Feeling of overpaying for the lobster roll and small portion of fries.', ""Unfriendly and unhelpful waiter who mumbled and didn't explain the menu.""]",100.0,100.0,100.0,False
